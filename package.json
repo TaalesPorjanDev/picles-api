@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.29.2",
+    "react-loading-skeleton": "^3.4.0"
+  }
+}
